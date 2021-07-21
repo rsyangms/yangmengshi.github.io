@@ -11,7 +11,7 @@
       <p><b></b></p>
     </td>
     <td width="25%">
-      <img src="yangmengshi.github.io/11.png" width="100%">     
+      <img src="/11.png" width="100%">     
     </td>
   </tr>
 </table>
