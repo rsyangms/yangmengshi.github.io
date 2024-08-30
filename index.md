@@ -37,7 +37,7 @@ Radar remote sensing geodesy for measuring, understanding, and interpreting the 
 
 -SAR/InSAR数据处理算法；
 
--时序InSAR分析方法；雷达散射体定位；
+-时序InSAR分析方法；InSAR散射体精密定位与散射特征分析；InSAR形变解译；
 
 
 
